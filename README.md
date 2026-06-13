@@ -1,7 +1,7 @@
 # Aplikasi Blog Laravel
 
 Nama: Muhammad Irzya Tirtana
-NIM: isi NIM di sini
+NIM: 240605110056
 
 ## Deskripsi
 
