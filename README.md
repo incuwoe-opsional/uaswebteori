@@ -38,5 +38,5 @@ Aplikasi Blog Laravel adalah sistem manajemen konten untuk mengelola penulis, ka
 ## Video Demonstrasi
 
 Tautan YouTube: isi tautan video demonstrasi di sini
-
+https://youtu.be/bkgTBGmF43c?si=EcIq_CGEfL3X9n50
 "# uaswebteori" 
